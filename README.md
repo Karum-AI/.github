@@ -13,7 +13,7 @@ Karum is an autonomous AI marketing platform for B2B founders and early-stage SM
 
 ---
 
-## What Karum actually does and what you get from it
+## How it works
 
 ### Describe your goals, get finished marketing work
 
