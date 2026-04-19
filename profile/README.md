@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://eq8t4nbskhjfsl9r.private.blob.vercel-storage.com/Linkedin%20%288%29.png" alt="Karum Banner" width="100%" />
+  <img src="https://inszsxm8llflegms.public.blob.vercel-storage.com/Linkedin%20%288%29.png" alt="Karum Banner" width="100%" />
 </p>
 
 <p align="center">
